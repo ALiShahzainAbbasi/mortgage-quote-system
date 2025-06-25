@@ -1,4 +1,4 @@
-# Mortgage System
+# Mortgage Quote System
 
 A modern mortgage management system built with React, TypeScript, and Vite. Backend integrated via PHP and database MySQL.
 
