@@ -140,6 +140,3 @@ For technical support or questions, please contact:
 - Sensitive data is encrypted at rest
 - Regular security audits are performed
 
-
-## License
-
